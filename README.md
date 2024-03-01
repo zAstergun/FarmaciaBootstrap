@@ -28,4 +28,5 @@ A página utiliza classes do Bootstrap para garantir que seja responsiva e se ad
 Para visualizar a página, basta abrir o arquivo HTML em um navegador web. Certifique-se de que o Bootstrap esteja devidamente vinculado ao arquivo HTML para que todos os estilos e funcionalidades do framework sejam aplicados corretamente.
 
 ### Imagem do Projeto
-![Projeto](.github/Farmacia_Bootstrap.png)
+![Ultrawide](.github/Farmacia_Bootstrap.png)
+![Mobile](.github/Site_Responsivo.png)
